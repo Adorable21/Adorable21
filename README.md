@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adorable
 - 👀 I’m interested in the world of Artificial intelligence
--  I’m currently building ProcureIQ, an AI Powered Commercial Intelligence Platform for Procurement Teams in Oil/Gas,Construction and Manufacturing Industry 
+-  I’m currently building Nerqovia, an AI Powered Commercial Intelligence Platform for Procurement Teams in FMCG and Manufacturing Industry
 - 💞️ I’m looking to learning from leaders, open minded people, goal setters, people that will challenge me
 - 📫 How to reach me on my business email... esther@adorainnovations.com 
 Life is too short, live your best life
